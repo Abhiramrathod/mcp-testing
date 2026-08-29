@@ -20,7 +20,7 @@
              4.1.135.Final+ fixes CVE-2026-47691 (DNS cache poisoning);
              4.1.136.Final+ fixes CVE-2026-56817 (XXE), CVE-2026-44891, CVE-2026-55833;
              4.1.137.Final fixes CVE-2026-59901/59902/59903 (handler/codec-http/SCTP). -->
-        <netty.version>4.1.137.Final</netty.version>
+        <netty.version>4.2.17.Final</netty.version>
     </properties>
 
     <dependencies>
